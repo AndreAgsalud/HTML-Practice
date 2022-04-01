@@ -1,6 +1,6 @@
 index.html is the root/home page of a website
 
-Tag setup:
+Tag format:
 <tagname>content</tagname>
 
 tags:
@@ -29,3 +29,7 @@ block:
 -starts on a new line
 -takes full width available
 -ex: span, img, a
+
+Tag attributes:
+-<tagname attributename="attributevalue">content</tagname>
+-always in key/value pairs
