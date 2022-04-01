@@ -1,0 +1,22 @@
+index.html is the root/home page of a website
+
+Tag setup:
+<tagname>content</tagname>
+
+tags:
+h1 - header
+p - paragraph
+br/ (self closing, no content)
+br (also fine)
+
+structure:
+html
+    head
+        title
+    head
+    body
+        h1
+        p
+        p
+    body
+html
