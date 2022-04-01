@@ -33,3 +33,13 @@ block:
 Tag attributes:
 -<tagname attributename="attributevalue">content</tagname>
 -always in key/value pairs
+
+HTML Semantic Tags:
+-header
+-footer
+-aside
+-main
+-article
+-nav
+-section
+-details
