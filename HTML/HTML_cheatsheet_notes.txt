@@ -20,3 +20,12 @@ html
         p
     body
 html
+
+Inline:
+-doesn't starta a new line
+- takes only the necessary width
+-ex:div, h1-h6, p, form
+block:
+-starts on a new line
+-takes full width available
+-ex: span, img, a
